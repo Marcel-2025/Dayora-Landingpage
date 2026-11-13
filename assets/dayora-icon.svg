@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Dayora icon – Sonne über Berglandschaft mit Mond">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#21305B"/><stop offset=".38" stop-color="#172C51"/><stop offset=".72" stop-color="#0B2633"/><stop offset="1" stop-color="#051B24"/></linearGradient>
+  <radialGradient id="warm" cx=".39" cy=".54" r=".65"><stop stop-color="#F9C785" stop-opacity=".95"/><stop offset=".38" stop-color="#FC886D" stop-opacity=".55"/><stop offset=".75" stop-color="#593E7F" stop-opacity=".27"/><stop offset="1" stop-color="#081C2A" stop-opacity="0"/></radialGradient>
+  <radialGradient id="sun"><stop stop-color="#FFF6D4"/><stop offset=".53" stop-color="#FFE3A1"/><stop offset=".82" stop-color="#FFB26D"/><stop offset="1" stop-color="#FF957C"/></radialGradient>
+  <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#485B80"/><stop offset="1" stop-color="#142B43"/></linearGradient>
+  <linearGradient id="low" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#24435D"/><stop offset="1" stop-color="#071E2D"/></linearGradient>
+  <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF5C3"/><stop offset=".7" stop-color="#F8BF69"/><stop offset="1" stop-color="#F78B61"/></linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="32"/></filter>
+  <filter id="small" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1024" height="1024" fill="url(#sky)"/>
+<rect width="1024" height="1024" fill="url(#warm)"/>
+<g fill="#fff9e1" opacity=".8"><circle cx="143" cy="155" r="2"/><circle cx="768" cy="155" r="3"/><circle cx="840" cy="246" r="2"/><circle cx="924" cy="118" r="2"/><circle cx="699" cy="92" r="2"/><circle cx="890" cy="400" r="2"/></g>
+<circle cx="500" cy="540" r="205" fill="#FFAB63" opacity=".4" filter="url(#glow)"/>
+<path d="M177 502 A332 332 0 0 1 840 492" fill="none" stroke="#F8C98E" stroke-width="12" stroke-linecap="round" opacity=".85"/>
+<g stroke="#F8D298" stroke-width="9" stroke-linecap="round" opacity=".95"><path d="M510 104v58"/><path d="M389 131l21 54"/><path d="M274 203l38 43"/><path d="M210 324l52 25"/><path d="M789 220l-35 39"/><path d="M837 347l-45 20"/><path d="M627 132l-17 51"/></g>
+<path d="M821 116a79 79 0 1 0 84 119 76 76 0 0 1-84-119" fill="#D9F3FF"/>
+<circle cx="824" cy="164" r="96" fill="#7BD8FF" opacity=".25" filter="url(#small)"/>
+<circle cx="489" cy="542" r="160" fill="url(#sun)"/>
+<path d="M0 635L105 557L192 620L296 505L375 564L494 485L572 550L670 458L784 570L879 493L1024 595V1024H0Z" fill="#566486"/>
+<path d="M0 669L130 603L234 649L342 556L459 625L553 573L662 630L747 563L871 649L961 580L1024 634V1024H0Z" fill="url(#mount)"/>
+<path d="M0 780L158 668L254 713L386 635L540 714L659 632L783 708L920 657L1024 719V1024H0Z" fill="url(#low)"/>
+<path d="M0 850L149 749L265 801L399 725L533 816L676 734L795 799L926 722L1024 785V1024H0Z" fill="#092A36"/>
+<g fill="#051C29"><path d="M105 785l-43 90h27l-28 57h91l-28-57h27z"/><path d="M900 746l-50 115h34l-32 69h98l-30-69h31z"/><path d="M245 799l-33 78h22l-25 54h73l-23-54h22z"/><path d="M795 817l-31 71h20l-18 43h64l-18-43h21z"/></g>
+<path d="M512 871v-130" fill="none" stroke="url(#leaf)" stroke-width="21" stroke-linecap="round"/>
+<path d="M501 818c-94 17-144-44-141-123 93-10 145 30 141 123Z" fill="url(#leaf)"/>
+<path d="M522 788c-5-98 43-144 135-150 13 88-35 143-135 150Z" fill="url(#leaf)"/>
+<path d="M498 813c-51-58-81-72-117-85M523 777c46-64 75-86 112-108" fill="none" stroke="#BC6D49" stroke-opacity=".48" stroke-width="7" stroke-linecap="round"/>
+<rect x="0" y="0" width="1024" height="1024" fill="none" stroke="#FFC77F" stroke-width="0"/>
+</svg>
