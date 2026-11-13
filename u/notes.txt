@@ -1,0 +1,189 @@
+<de-DE>
+Erste Version von LichtRhythmus:
+• Live-Sonnenbogen mit Sonnenauf- und -untergang, Dämmerung und Sonnenstand
+• Jahreskarte und Simulator: Wie viel Tageslicht bleibt nach deiner Aufstehzeit?
+• Schlafprotokoll mit ruhiger Statistik und Trend-Hinweis
+• Rhythmus-Planer: Aufstehzeit in sanften Schritten verschieben
+• Wissensbibliothek, 6 Themes, Tablet-Layout
+Komplett offline – ohne Konto, ohne Werbung, ohne Tracking.
+</de-DE>
+<en-US>
+First release of Dayora:
+• Live sun arc with sunrise, sunset, twilight and sun position
+• Year map and simulator: how much daylight is left after you get up?
+• Sleep log with calm statistics and trend hints
+• Rhythm planner: shift your wake-up time in gentle steps
+• Knowledge library, 6 themes, tablet layout
+Fully offline – no account, no ads, no tracking.
+</en-US>
+<en-GB>
+First release of Dayora:
+• Live sun arc with sunrise, sunset, twilight and sun position
+• Year map and simulator: how much daylight is left after you get up?
+• Sleep log with calm statistics and trend hints
+• Rhythm planner: shift your wake-up time in gentle steps
+• Knowledge library, 6 colour themes, tablet layout
+Fully offline – no account, no ads, no tracking.
+</en-GB>
+<fr-FR>
+Première version de Dayora :
+• Arc solaire en direct : lever, coucher, crépuscule et position du soleil
+• Carte annuelle et simulateur : combien de lumière du jour reste-t-il après ton réveil ?
+• Journal de sommeil avec statistiques sereines et tendances
+• Planificateur de rythme : décale ton heure de réveil par petites étapes
+• 6 thèmes, mise en page tablette
+Entièrement hors ligne – sans compte, sans pub, sans suivi.
+</fr-FR>
+<es-ES>
+Primera versión de Dayora:
+• Arco solar en directo con amanecer, atardecer, crepúsculo y posición del sol
+• Mapa anual y simulador: ¿cuánta luz del día te queda después de levantarte?
+• Registro de sueño con estadísticas tranquilas y tendencias
+• Planificador de ritmo: adelanta tu hora de despertar poco a poco
+• 6 temas, diseño para tablet
+Totalmente sin conexión: sin cuenta, sin anuncios, sin seguimiento.
+</es-ES>
+<es-419>
+Primera versión de Dayora:
+• Arco solar en vivo con amanecer, atardecer, crepúsculo y posición del sol
+• Mapa anual y simulador: ¿cuánta luz del día te queda después de levantarte?
+• Registro de sueño con estadísticas tranquilas y tendencias
+• Planificador de ritmo: mueve tu hora de despertar poco a poco
+• 6 temas, diseño para tablet
+Totalmente sin conexión: sin cuenta, sin anuncios, sin rastreo.
+</es-419>
+<it-IT>
+Prima versione di Dayora:
+• Arco solare in tempo reale con alba, tramonto, crepuscolo e posizione del sole
+• Mappa annuale e simulatore: quanta luce ti resta dopo il risveglio?
+• Diario del sonno con statistiche serene e tendenze
+• Pianificatore del ritmo: sposta l’orario di sveglia a piccoli passi
+• 6 temi, layout per tablet
+Completamente offline: niente account, pubblicità o tracciamento.
+</it-IT>
+<nl-NL>
+Eerste versie van Dayora:
+• Live zonneboog met zonsopkomst, zonsondergang, schemering en zonnestand
+• Jaarkaart en simulator: hoeveel daglicht blijft er over na het opstaan?
+• Slaaplogboek met rustige statistieken en trends
+• Ritmeplanner: verschuif je opstaantijd in kleine stappen
+• 6 thema’s, tablet-indeling
+Volledig offline – geen account, geen advertenties, geen tracking.
+</nl-NL>
+<pl-PL>
+Pierwsza wersja Dayora:
+• Łuk słońca na żywo: wschód, zachód, zmierzch i położenie słońca
+• Mapa roczna i symulator: ile światła dziennego zostaje po wstaniu?
+• Dziennik snu ze spokojnymi statystykami i trendami
+• Planer rytmu: przesuwaj porę wstawania małymi krokami
+• 6 motywów, układ na tablet
+Całkowicie offline – bez konta, reklam i śledzenia.
+</pl-PL>
+<pt-BR>
+Primeira versão do Dayora:
+• Arco solar ao vivo com nascer, pôr do sol, crepúsculo e posição do sol
+• Mapa anual e simulador: quanta luz do dia sobra depois que você acorda?
+• Registro de sono com estatísticas tranquilas e tendências
+• Planejador de ritmo: mude seu horário de acordar aos poucos
+• 6 temas, layout para tablet
+Totalmente offline – sem conta, sem anúncios, sem rastreamento.
+</pt-BR>
+<pt-PT>
+Primeira versão do Dayora:
+• Arco solar em direto com nascer e pôr do sol, crepúsculo e posição do sol
+• Mapa anual e simulador: quanta luz do dia resta depois de te levantares?
+• Registo de sono com estatísticas tranquilas e tendências
+• Planeador de ritmo: ajusta a hora de acordar em pequenos passos
+• 6 temas, layout para tablet
+Totalmente offline – sem conta, sem anúncios, sem rastreio.
+</pt-PT>
+<tr-TR>
+Dayora’nın ilk sürümü:
+• Gün doğumu, gün batımı, alacakaranlık ve güneş konumuyla canlı güneş yayı
+• Yıllık harita ve simülatör: Kalktıktan sonra ne kadar gün ışığı kalıyor?
+• Sakin istatistikler ve eğilimlerle uyku günlüğü
+• Ritim planlayıcı: Kalkış saatini küçük adımlarla değiştir
+• 6 tema, tablet düzeni
+Tamamen çevrimdışı – hesap, reklam ve takip yok.
+</tr-TR>
+<ru-RU>
+Первая версия Dayora:
+• Живая дуга солнца: восход, закат, сумерки и положение солнца
+• Годовая карта и симулятор: сколько дневного света остаётся после подъёма?
+• Дневник сна со спокойной статистикой и тенденциями
+• Планировщик ритма: сдвигайте время подъёма небольшими шагами
+• 6 тем, макет для планшетов
+Полностью офлайн — без аккаунта, рекламы и отслеживания.
+</ru-RU>
+<uk>
+Перша версія Dayora:
+• Жива дуга сонця: схід, захід, сутінки та положення сонця
+• Річна карта й симулятор: скільки денного світла лишається після підйому?
+• Щоденник сну зі спокійною статистикою та тенденціями
+• Планувальник ритму: зсувайте час підйому невеликими кроками
+• 6 тем, макет для планшетів
+Повністю офлайн — без акаунта, реклами та відстеження.
+</uk>
+<sv-SE>
+Första versionen av Dayora:
+• Live-solbåge med soluppgång, solnedgång, skymning och solens position
+• Årskarta och simulator: hur mycket dagsljus finns kvar när du har gått upp?
+• Sömnlogg med lugn statistik och trender
+• Rytmplanerare: flytta din uppstigningstid i små steg
+• 6 teman, surfplattelayout
+Helt offline – inget konto, ingen reklam, ingen spårning.
+</sv-SE>
+<ja-JP>
+Dayora の最初のリリース：
+• 日の出・日の入り・薄明・太陽の位置を表示するライブ太陽アーク
+• 年間マップとシミュレーター：起床後に残る日照時間は？
+• 落ち着いた統計と傾向が分かる睡眠記録
+• リズムプランナー：起床時間を少しずつ調整
+• 6 つのテーマ、タブレット対応
+完全オフライン — アカウント・広告・トラッキングなし。
+</ja-JP>
+<ko-KR>
+Dayora 첫 출시:
+• 일출, 일몰, 박명, 태양 위치를 보여 주는 실시간 태양 궤적
+• 연간 지도와 시뮬레이터: 일어난 뒤 남은 낮 시간은?
+• 차분한 통계와 추세를 제공하는 수면 기록
+• 리듬 플래너: 기상 시간을 조금씩 조정
+• 6가지 테마, 태블릿 레이아웃
+완전 오프라인 – 계정, 광고, 추적 없음.
+</ko-KR>
+<zh-CN>
+Dayora 首个版本：
+• 实时太阳弧线：日出、日落、晨昏蒙影和太阳位置
+• 年度图表与模拟器：起床后还剩多少日照？
+• 睡眠记录，提供平和的统计与趋势
+• 节律规划：小步调整起床时间
+• 6 种主题，平板布局
+完全离线——无需账号，无广告，无跟踪。
+</zh-CN>
+<zh-TW>
+Dayora 首個版本：
+• 即時太陽弧線：日出、日落、曙暮光與太陽位置
+• 年度圖表與模擬器：起床後還剩多少日照？
+• 睡眠紀錄，提供平和的統計與趨勢
+• 節律規劃：小步調整起床時間
+• 6 種主題，平板版面
+完全離線——無需帳號、無廣告、無追蹤。
+</zh-TW>
+<ar>
+الإصدار الأول من Dayora:
+• قوس شمسي مباشر مع الشروق والغروب والشفق وموقع الشمس
+• خريطة سنوية ومحاكي: كم يتبقى من ضوء النهار بعد استيقاظك؟
+• سجل نوم بإحصاءات هادئة واتجاهات
+• مخطط الإيقاع: غيّر وقت استيقاظك بخطوات صغيرة
+• 6 سمات وتصميم للأجهزة اللوحية
+يعمل دون اتصال بالكامل – بلا حساب أو إعلانات أو تتبع.
+</ar>
+<hi-IN>
+Dayora का पहला संस्करण:
+• सूर्योदय, सूर्यास्त, गोधूलि और सूर्य की स्थिति के साथ लाइव सूर्य-चाप
+• वार्षिक मानचित्र और सिम्युलेटर: उठने के बाद कितनी धूप बचती है?
+• शांत आँकड़ों और रुझानों के साथ नींद लॉग
+• रिदम प्लानर: उठने का समय छोटे-छोटे कदमों में बदलें
+• 6 थीम, टैबलेट लेआउट
+पूरी तरह ऑफ़लाइन – न खाता, न विज्ञापन, न ट्रैकिंग।
+</hi-IN>
